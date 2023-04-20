@@ -1,11 +1,17 @@
 # ᚠᚱᛁ (RFL 0.0) Rune Free License
 
-### 1.12. “Secondary License”
+RFL is based of Mozilla Public License, v. 2.0 with the changes noted
+below.
 
-means either the GNU General Public License, Version 2.0, the GNU
-Lesser General Public License, Version 2.1, the GNU Affero General
-Public License, Version 3.0, or any later versions of those licenses.
+> 1.12. “Secondary License”
 
+> means either the GNU General Public License, Version 2.0, the GNU
+> Lesser General Public License, Version 2.1, the GNU Affero General
+> Public License, Version 3.0, or any later versions of those licenses.
+
+Replace by
+
+### 1.12. "Upgrade target License"
 
 ### 2.4. Subsequent Licenses
 
