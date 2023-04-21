@@ -6,7 +6,7 @@ thouse the rune name. If the license need to be upgraded it provide a way
 without any central athority. It also is unfiliated with any particular
 project.
 
-## ᚱᚠᛁ (RFL 0.0) Rune Free License
+## ᚱᚠᛁ (RFL alfa0.1) Rune Free License
 
 RFL is the main license providing a nocontagious copyleft license
 fokusing on protecting contributors right to use future
