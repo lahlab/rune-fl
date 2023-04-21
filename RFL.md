@@ -1,4 +1,4 @@
-# ᚱᚠᛁ (RFL beta1) Rune Free License
+# ᚱᚠᛁ (RFL alfa0.1) Rune Free License
 
 RFL is based of Mozilla Public License, v. 2.0 with the changes noted
 below.
@@ -145,7 +145,7 @@ The Exhibit part of MPL is changed to:
 
 ## Exhibit A - Source Code Form License Notice
 
-> This Source Code Form is subject to the terms of the Rune Free License, beta0.1
+> This Source Code Form is subject to the terms of the Rune Free License, alfa0.1
 > If a copy of the RFL was not distributed with this file, You can obtain one
 > at xxxx.
 
